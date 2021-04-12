@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1SiS872bwX8dg8bpnLVX8QfaRQVzWVtAX/view?usp=shari
 - Environtment setup: <p> 
 https://reactnative.dev/docs/environment-setup
 - Clone the repository: <p> 
-`git clone https://github.com/AlexisFabianCarranza/React-Native-Movie-Finder.git`
+`git clone https://github.com/AlexisFabianCarranza/react-native-ts-magic-potions.git`
 - Install dependencies: <p> 
 `yarn`
 - Run project: 
